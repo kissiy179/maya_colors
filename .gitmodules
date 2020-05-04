@@ -1,6 +1,3 @@
-[submodule "python/universal_colors"]
-	path = python/universal_colors
-	url = https://github.com/kissiy179/universal_colors.git
 [submodule "python/qtpy"]
 	path = python/qtpy
 	url = https://github.com/spyder-ide/qtpy.git
