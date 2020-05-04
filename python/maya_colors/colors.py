@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 from collections import OrderedDict
-import universal_colors.colors as universal_colors_
+import cud_colors.colors as cud_colors_
 import color
 
 colors = OrderedDict()
 
-for key, values in universal_colors_.colors.colors.items():
+for key, values in cud_colors_.colors.colors.items():
     colors[key] = color.Color(*values)
