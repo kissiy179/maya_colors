@@ -1,0 +1,2 @@
+# maya_universal_colors
+Maya用ユニバーサルカラーパッケージ
