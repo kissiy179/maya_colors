@@ -5,5 +5,5 @@ import color
 
 colors = OrderedDict()
 
-for key, values in cud_colors_.colors.colors.items():
+for key, values in cud_colors_.colors.all_colors.items():
     colors[key] = color.Color(*values)
