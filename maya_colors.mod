@@ -1,4 +1,4 @@
-+ maya_universal_colors 0.1 .\
++ maya_colors 0.1 .\
 PYTHONPATH+:=python
 PYTHONPATH+:=python\qtpy
 plug-ins: plug-ins
