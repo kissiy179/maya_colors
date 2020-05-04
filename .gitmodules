@@ -1,3 +1,6 @@
 [submodule "python/qtpy"]
 	path = python/qtpy
 	url = https://github.com/spyder-ide/qtpy.git
+[submodule "python/cud_colors"]
+	path = python/cud_colors
+	url = https://github.com/kissiy179/cud_colors.git
