@@ -21,6 +21,7 @@ goto except
 REM Maya起動
 :execute
 start "" "%MAYA_APP_PATH%\bin\maya.exe"
+pause
 goto end
 
 REM インストールされてない場合修了
